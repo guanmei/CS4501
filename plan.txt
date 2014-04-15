@@ -1,0 +1,16 @@
+4/8/2014 meeting minutes
+
+A). Things to do by Thursday, 4/10/2014
+Finish reading chapter 1~3 of the book.
+B). Group members:
+　　Project manager: 	Tianye Song, ts7fx@virginia.edu	
+　　Developers: 		Fanjia Kong, fk9mp@virginia.edu
+　　Guanmei Liang, gl5pc@virginia.edu
+C). Repo link: https://github.com/ts7fx/CS4501.git
+
+4/10/2014 meeting minutes
+
+Before next Tuesday.
+A). Finish reading chapters 4~6 of the book.
+B). Keep uploading stuff into Github.
+C). 
